@@ -2,7 +2,7 @@
 
 ## About Me
 
-#### I am Mike Zahuta, a blossoming, developing developer who wants to learn _everything_! After years of selling software, my curiosity to learn how platforms worked got the best of me. I changed jobs, went back to school, and am excited to see how far I go on the road ahead.
+#### I am Mike Zahuta, a developing developer who wants to learn _everything_! After years of selling software, my curiosity to learn how platforms worked got the best of me. I changed jobs, went back to school, and am excited to see how far I go on the road ahead.
 
 ## 📈 Currently...
 - 🔭 Working on small projects to develop further skills and add to my portfolio. (Feel free to suggest your best experiences!)
