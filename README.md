@@ -13,7 +13,7 @@
 - 💬 Ask me about anything - especially how/why I've built something. Explanation will help my development.
 - 📫 How to reach me: mike.zahuta@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I completed my switch to Software Development with 3 year old twins and a 3 month old all at home during the pandemic. 😬
+- ⚡ Fun fact: I completed my switch to Engineering with 3 year old twins and a 3 month old all at home during the pandemic. 😬
 
 ## 🏆 Achievements...
 - ✅ Successfully completed General Assembly Software Engineering Immersive Jan 2021 on a terribly slow Macbook Air 2013
